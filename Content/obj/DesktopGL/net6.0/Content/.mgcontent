@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/BOX.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/crouch.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/GroundTile.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/IdleLeft.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/IdleRight.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/jump.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/new platform.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/RunLeft.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/RunRight.png</File>
+    <File>C:/Users/zman3/Documents/GitHub/Level2/Content/spritesheets/SOLID Platform.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
